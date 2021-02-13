@@ -20,7 +20,7 @@ To identify the users that could potentially cancel their account and leave the 
 In addition, Predicting churn rates is a challenging and common problem that data scientists and analysts regularly encounter in any customer-facing business. I was personally interested in learning and applying Spark technology to the problem that's very relevant in today's scenario.
 
 # File Descriptions
-- sparkify.ipynb: Jincludes data preparation, analysis, visualization, and machine learning models for small dataset<br>
+- sparkify.ipynb: includes data preparation, analysis, visualization, and machine learning models for small dataset<br>
 - The smaller version used for data exploration (128MB) is available under: s3n://udacity-dsnd/sparkify/mini_sparkify_event_data.json
 
 # Results
